@@ -7,9 +7,7 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      <header className="App-header">
-        sanity check
-      </header>
+      
     </div>
   );
 }
