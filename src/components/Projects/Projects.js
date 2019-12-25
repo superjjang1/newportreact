@@ -9,7 +9,7 @@ class Projects extends Component {
     render() { 
         return ( 
             <div className="container-fluid">
-                <div className="projects">
+                <div className="projects" id="Projects">
                     <h1>Hello? Projects</h1>
                     
                 </div>

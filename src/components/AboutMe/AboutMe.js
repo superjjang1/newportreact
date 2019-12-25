@@ -9,7 +9,7 @@ class AboutMe extends Component {
     render() { 
         return ( 
             <div className="container-fluid">
-                <div className="home">
+                <div className="home" id="Home">
                     <h1>Hello?</h1>
                     
                 </div>
