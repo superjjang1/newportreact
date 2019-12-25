@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import './AboutMe.css';
+import './Projects.css';
 
-class AboutMe extends Component {
+class Projects extends Component {
     constructor(props) {
         super(props);
         this.state = {  }
@@ -9,13 +9,13 @@ class AboutMe extends Component {
     render() { 
         return ( 
             <div className="container-fluid">
-                <div className="home">
-                    <h1>Hello?</h1>
+                <div className="projects">
+                    <h1>Hello? Sanity</h1>
                     
                 </div>
             </div>
-        );
+         );
     }
 }
  
-export default AboutMe;
+export default Projects;
