@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
-import './Projects.css';
+import './Skills.css';
 
-class Projects extends Component {
+
+class Skills extends Component {
     constructor(props) {
         super(props);
         this.state = {  }
@@ -9,8 +10,8 @@ class Projects extends Component {
     render() { 
         return ( 
             <div className="container-fluid">
-                <div className="projects">
-                    <h1>Hello? Projects</h1>
+                <div className="skills">
+                    <h1>Hello? skills</h1>
                     
                 </div>
             </div>
@@ -18,4 +19,4 @@ class Projects extends Component {
     }
 }
  
-export default Projects;
+export default Skills;
