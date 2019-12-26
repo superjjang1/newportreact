@@ -18,14 +18,16 @@ class AboutMe extends Component {
                         </div>
                         <div className="w-100"></div>
                         
-                            <div className="col text-left">
+                            <div className="col-sm-6 text-left">
                                 My name is Sean Yim, a former English Teacher, and former assistant manager at a retail 
                                 paint store. Now, I'm pursuing a career as a full-time software developer, hoping to create new 
                                 and innovative applications. From a career in sales and a background in literature, to pursuing 
                                 my true passion, software development.
                                 I've always enjoyed learning new things, and software development is a landscape that's constantly changing. 
                             </div>
-                        <div className="w-100"></div>
+                        <div className="col-sm-6">
+                            <img src="https://i.imgur.com/aaCcObg.jpg" alt="me" className="rounded-circle img-thumbnail"/>
+                        </div>
                     </div>
                 </div>
             </div>
