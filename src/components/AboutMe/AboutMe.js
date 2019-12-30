@@ -26,7 +26,7 @@ class AboutMe extends Component {
                                 I've always enjoyed learning new things, and software development is a landscape that's constantly changing. 
                             </div>
                         <div className="col-m">
-                            <img src="https://i.imgur.com/aaCcObg.jpg" alt="me" className="rounded-circle img-thumbnail"/>
+                            <img src="https://i.imgur.com/aaCcObg.jpg" alt="me" className="rounded-circle img-thumbnail mx-auto d-block"/>
                         </div>
                     </div>
                 </div>
