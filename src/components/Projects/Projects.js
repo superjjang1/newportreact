@@ -8,10 +8,15 @@ class Projects extends Component {
     }
     render() { 
         return ( 
-            <div className="container-fluid">
+            <div className="container">
                 <div className="projects" id="Projects">
-                    <h1>Hello? Projects</h1>
-                    
+                    <div className="row">
+                        <div className="col">
+                            <h2 className="heading shadow-sm p-3 mb-5 bg-white rounded">Projects</h2>
+                        </div>
+                        <div className="w-100"></div>
+                        <div className="col-m"></div>
+                    </div>
                 </div>
             </div>
          );
