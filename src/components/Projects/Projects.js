@@ -34,8 +34,14 @@ class Projects extends Component {
                             </a>
                         </div>
                     </div>
-                    <div>
-                        
+                    <div className="w-100"></div>
+                    <div className="col-sm">
+                        <a href="https://github.com/superjjang1/desserts-app" target="_blank">
+                        <i class="fab fa-github fa-2x">SweetHub Github</i></a>
+                    </div>
+                    <div className="col-sm">
+                        <a href="https://github.com/superjjang1/gaming-frontend" target="_blank">
+                        <i class="fab fa-github fa-2x">Gametime Github</i></a>
                     </div>
                 </div>
             </div>
