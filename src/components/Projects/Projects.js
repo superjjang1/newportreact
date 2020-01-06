@@ -35,6 +35,7 @@ class Projects extends Component {
                         </div>
                     </div>
                     <div className="w-100"></div>
+                    <hr/>
                     <div className="col-sm">
                         <a href="https://github.com/superjjang1/desserts-app" target="_blank">
                         <i class="fab fa-github fa-2x">SweetHub Github</i></a>
