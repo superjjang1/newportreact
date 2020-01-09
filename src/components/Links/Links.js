@@ -17,7 +17,7 @@ class Links extends Component {
                         <div className="w-100"></div>
                             <div className="col-sm">
                             <a href="https://www.linkedin.com/in/sean-yim-80b509118/" target="_blank">
-                                <i className="fab fa-linkedin fa-1x"> Linkedin</i></a>
+                                <i className="fab fa-linkedin fa-2x"> Linkedin</i></a>
                             </div>
                             <div className="col-sm">
                             <a href="https://www.github.com/superjjang1" target="_blank">
@@ -25,7 +25,7 @@ class Links extends Component {
                             </div>
                             <div className="col-sm">
                                 <a href="https://drive.google.com/file/d/1AQ1vP46IL_B9A4BbhDlkuPD1k3m8cBEg/view?usp=sharing" target="_blank">
-                                    <i className="fas fa-paperclip fa-1x"> Resume</i>
+                                    <i className="fas fa-paperclip fa-2x"> Resume</i>
                                 </a>
                             </div>
                         
