@@ -34,15 +34,25 @@ class Projects extends Component {
                             </a>
                         </div>
                     </div>
-                    <div className="w-100"></div>
+                    
                     <hr/>
-                    <div className="col-sm">
-                        <a href="https://github.com/superjjang1/desserts-app" target="_blank">
-                        <i class="fab fa-github fa-2x">SweetHub Github</i></a>
-                    </div>
-                    <div className="col-sm">
-                        <a href="https://github.com/superjjang1/gaming-frontend" target="_blank">
-                        <i class="fab fa-github fa-2x">Gametime Github</i></a>
+                    <div className="row">
+                        <div className="col-sm">
+                            <a href="https://github.com/superjjang1/desserts-app" target="_blank">
+                            <i className="fab fa-github fa-1x">SweetHub Github</i></a>  
+                            <a href="https://sweethub.seanyim.com/" target="_blank">
+                                <i className="fas fa-external-link-square-alt 1x"> SweetHub Link</i>
+                            </a>
+                        </div>
+                        
+                        <div className="col-sm">
+                            <a href="https://github.com/superjjang1/gaming-frontend" target="_blank">
+                            <i class="fab fa-github fa-1x">Gametime Github</i></a>  
+                            <a href="https://gametime.seanyim.com" target="_blank">
+                                <i className="fas fa-external-link-square-alt 1x"> Gametime Link</i>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
             </div>
