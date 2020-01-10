@@ -24,7 +24,7 @@ class Links extends Component {
                                 <i class="fab fa-github fa-2x"> Github</i></a>
                             </div>
                             <div className="col-sm">
-                                <a href="https://drive.google.com/file/d/1AQ1vP46IL_B9A4BbhDlkuPD1k3m8cBEg/view?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1gA95uTM1_nhzHC5iWg40mQr1vuEAsNoV/view?usp=sharing" target="_blank">
                                     <i className="fas fa-paperclip fa-2x"> Resume</i>
                                 </a>
                             </div>
