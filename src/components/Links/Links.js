@@ -28,7 +28,10 @@ class Links extends Component {
                                     <i className="fas fa-paperclip fa-2x"> Resume</i>
                                 </a>
                             </div>
-                            <div className="w-100"></div>
+                        
+                    </div>
+                    <div className="container">
+                        <div className="row">
                             <div className="col text-left">
                                 I would also like to take the time to shout-out a few people who have made my journey possible.<br/>
                                 First, I would like to thank my mother, if it wasn't for her I wouldn't be here, and without her <br/>
@@ -38,8 +41,11 @@ class Links extends Component {
                                 Third, I would like to thank the people that I met during my time at DigitalCrafts, my instructors, and<br/>
                                 classmates. 
                             </div>
-                        
+                            
+
+                        </div>
                     </div>
+                    
                 </div>
             </div>
          );
