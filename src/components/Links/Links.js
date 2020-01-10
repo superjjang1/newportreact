@@ -28,6 +28,16 @@ class Links extends Component {
                                     <i className="fas fa-paperclip fa-2x"> Resume</i>
                                 </a>
                             </div>
+                            <div className="w-100"></div>
+                            <div className="col text-left">
+                                I would also like to take the time to shout-out a few people who have made my journey possible.<br/>
+                                First, I would like to thank my mother, if it wasn't for her I wouldn't be here, and without her <br/>
+                                support, I'm not sure I would have really made the jump to fully pursue the path that I'm on today.<br/>
+                                Secondly, I would like to thank my friend Jae-ho, he introduced me to DigitalCrafts, and fully endorsed<br/>
+                                them as a bootcamp, and what was really possible with it.<br/>
+                                Third, I would like to thank the people that I met during my time at DigitalCrafts, my instructors, and<br/>
+                                classmates. 
+                            </div>
                         
                     </div>
                 </div>

@@ -25,7 +25,7 @@ class AboutMe extends Component {
                                 my true passion, software development.
                                 I've always enjoyed learning new things, and software development is a landscape that's constantly changing. 
                             </div>
-                        <div className="col-m">
+                        <div className="col-m mx-auto">
                             <img src="https://i.imgur.com/aaCcObg.jpg" alt="me" className="rounded-circle img-thumbnail mx-auto d-block"/>
                         </div>
                     </div>
