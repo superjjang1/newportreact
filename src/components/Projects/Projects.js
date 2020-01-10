@@ -19,9 +19,23 @@ class Projects extends Component {
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
                                     <img src="https://i.imgur.com/nvLNmz7.png" className="d-block w-100 h-100" alt="sweets"/>
+                                    <div class="carousel-caption d-none d-md-block text-primary">
+                                        <h5><a href="https://sweethub.seanyim.com/" target="_blank">
+                                <i className="fas fa-external-link-square-alt 1x"> SweetHub Link</i>
+                            </a></h5>
+                                        <p><a href="https://github.com/superjjang1/desserts-app" target="_blank">
+                            <i className="fab fa-github fa-1x">SweetHub Github</i></a></p>
+                                    </div>
                                 </div>
                                 <div className="carousel-item">
                                     <img src="https://i.imgur.com/GFGtoR3.png" className="d-block w-100 h-100" alt="gametime"/>
+                                    <div class="carousel-caption d-none d-md-block text-success shadow-sm p-3 mb-5 bg-transparent rounded">
+                                        <h5><a href="https://gametime.seanyim.com/" target="_blank">
+                                <i className="fas fa-external-link-square-alt 1x"> Gametime Link</i>
+                            </a></h5>
+                                        <p><a href="https://github.com/superjjang1/gaming-frontend" target="_blank">
+                            <i className="fab fa-github fa-1x">Gametime Github</i></a></p>
+                                    </div>
                                 </div>
                             </div>
                             <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -36,24 +50,7 @@ class Projects extends Component {
                     </div>
                     
                     <hr/>
-                    <div className="row">
-                        <div className="col-sm">
-                            <a href="https://github.com/superjjang1/desserts-app" target="_blank">
-                            <i className="fab fa-github fa-1x">SweetHub Github</i></a>  
-                            <a href="https://sweethub.seanyim.com/" target="_blank">
-                                <i className="fas fa-external-link-square-alt 1x"> SweetHub Link</i>
-                            </a>
-                        </div>
-                        
-                        <div className="col-sm">
-                            <a href="https://github.com/superjjang1/gaming-frontend" target="_blank">
-                            <i class="fab fa-github fa-1x">Gametime Github</i></a>  
-                            <a href="https://gametime.seanyim.com" target="_blank">
-                                <i className="fas fa-external-link-square-alt 1x"> Gametime Link</i>
-                            </a>
-                        </div>
-
-                    </div>
+                    
                 </div>
             </div>
          );
