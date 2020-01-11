@@ -8,7 +8,7 @@ class Links extends Component {
     }
     render() { 
         return ( 
-            <div className="container-fluid">
+            <div className="container">
                 <div className="links" id="Links">
                     <div className="row">
                         <div className="col">
