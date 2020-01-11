@@ -31,15 +31,15 @@ class Skills extends Component {
                         <div className="col">
                             <div className="row">
                                 <div className="w-100"></div>
-                                <div className="col-sm"><i class="fab fa-js-square fa-2x">javascript </i></div>
-                                <div className="col-sm"><i class="fab fa-react fa-2x">react </i></div>
-                                <div className="col-sm"><i class="fab fa-node-js fa-2x">Node.js </i></div>
-                                <div className="col-sm"><i class="fab fa-html5 fa-2x">HTML5 </i></div>
-                                <div className="col-sm"><i class="fab fa-css3-alt fa-2x">css </i></div>
-                                <div className="col-sm"><i class="fab fa-npm fa-2x">npm</i></div>
-                                <div className="col-sm"><i class="fab fa-aws fa-2x">aws </i></div>
-                                <div className="col-sm"><i class="fab fa-bootstrap fa-2x">bootstrap</i></div>
-                                <div className="col-sm"><i class="fab fa-angular fa-2x">angular </i></div>
+                                <div className="col-sm"><i className="fab fa-js-square fa-2x">javascript </i></div>
+                                <div className="col-sm"><i className="fab fa-react fa-2x">react </i></div>
+                                <div className="col-sm"><i className="fab fa-node-js fa-2x">Node.js </i></div>
+                                <div className="col-sm"><i className="fab fa-html5 fa-2x">HTML5 </i></div>
+                                <div className="col-sm"><i className="fab fa-css3-alt fa-2x">css </i></div>
+                                <div className="col-sm"><i className="fab fa-npm fa-2x">npm</i></div>
+                                <div className="col-sm"><i className="fab fa-aws fa-2x">aws </i></div>
+                                <div className="col-sm"><i className="fab fa-bootstrap fa-2x">bootstrap</i></div>
+                                <div className="col-sm"><i className="fab fa-angular fa-2x">angular </i></div>
                             </div>
                         </div>
                     </div>

@@ -6,3 +6,6 @@ nav {
     right: 0;
     z-index: 1030;
 }
+.nav-item:hover {
+    filter: invert(100%);
+}
