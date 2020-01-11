@@ -28,9 +28,11 @@ class Skills extends Component {
                                  to make me feel like what I was doing was fulfilling. Software Development,creating, making something that I could say, "Yes, I built that."
                                  And now, here I am, putting myself out there with the things that I've learned, and created.
                             </div>
+                            <br/>
                         <div className="col">
                             <div className="row">
                                 <div className="w-100"></div>
+                                <br/>
                                 <div className="col-sm"><i className="fab fa-js-square fa-2x">javascript </i></div>
                                 <div className="col-sm"><i className="fab fa-react fa-2x">react </i></div>
                                 <div className="col-sm"><i className="fab fa-node-js fa-2x">Node.js </i></div>
