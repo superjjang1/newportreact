@@ -50,6 +50,11 @@ class Projects extends Component {
                     </div>
                     
                     <hr/>
+                    <div className="row">
+                        <div className="mobile-only">
+                            sanity
+                        </div>
+                    </div>
                     
                 </div>
             </div>
