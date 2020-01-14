@@ -10,4 +10,7 @@
         .mobile-only {
             display: block;
         }
-    }
+    };
+.link {
+    background-color: black;
+}
