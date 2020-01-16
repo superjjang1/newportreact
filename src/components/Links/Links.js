@@ -12,7 +12,7 @@ class Links extends Component {
                 <div className="links" id="Links">
                     <div className="row">
                         <div className="col">
-                            <h2 className="heading shadow-sm p-3 mb-5 bg-white rounded">Find me here</h2>
+                            <h2 className="heading shadow-sm p-3 mb-5 bg-transparent rounded">Find me here</h2>
                         </div>
                         <div className="w-100"></div>
                             <div className="col-sm">

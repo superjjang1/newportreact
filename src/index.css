@@ -14,3 +14,7 @@ code {
 html {
   scroll-behavior: smooth;
 }
+.heading:hover {
+  filter: invert(100%);
+  opacity: 0.5;
+}
